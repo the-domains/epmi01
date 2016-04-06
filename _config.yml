@@ -1,0 +1,13 @@
+layout_spectrum: 0.4656284
+color:
+  saturation: 0.09661844
+  lightness: 0.152444
+  brandStrength: 0.5225564
+  brandColors:
+    - '#000000'
+    - '#293C7F'
+    - '#C72127'
+    - '#701316'
+  rhythmicContrast: 0.6532382
+typography_spectrum: 0.4473684
+name: Epmi01
